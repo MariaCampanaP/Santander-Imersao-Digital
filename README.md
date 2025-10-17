@@ -13,6 +13,8 @@ Aprender a criar aplicativos Android do zero, explorando desde conceitos básico
   - Lógica de Programação: mergulhe em programação com JavaScript
 - Semana 2
   - Lógica de Programação: explore funções e listas
+- Semana 3
+  - Git e GitHub: compartilhando e colaborando em projetos
 
 ## ☕︎ Tecnologias e Ferramentas
 - JavaScript
